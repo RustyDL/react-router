@@ -1,8 +1,8 @@
 import { Routes, Route, Link } from "react-router-dom";
-import Red from "./components/Red";
-import Blue from "./components/Blue";
-import Home from "./components/Home";
-import Yellow from "./components/Yellow";
+import Red from "../components/Red";
+import Blue from "../components/Blue";
+import Home from "../components/Home";
+import Yellow from "../components/Yellow";
 
 export default function App() {
   return (
